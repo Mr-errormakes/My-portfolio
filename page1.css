@@ -1,0 +1,6 @@
+body {
+    height: 100vh;
+    height: 100dvh; ;
+    min-height: max(884px, 100dvh);
+    background-color: #261d36;
+}

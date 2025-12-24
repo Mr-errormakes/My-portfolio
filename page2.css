@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    height: 100dvh; ;
+    min-height: max(884px, 100dvh);
+    background-color: #04882b;
+}
+
+.glass-card {
+    background: rgba(26, 36, 54, 0.6);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+.icon-gradient-1 { background: linear-gradient(135deg, #FF6B6B 0%, #C44D56 100%); }
+.icon-gradient-2 { background: linear-gradient(135deg, #4FACFE 0%, #00F2FE 100%); }
+.icon-gradient-3 { background: linear-gradient(135deg, #43E97B 0%, #38F9D7 100%); }
+.icon-gradient-4 { background: linear-gradient(135deg, #FA709A 0%, #FEE140 100%); }
+.icon-gradient-5 { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+
+body {
+    min-height: max(884px, 100dvh);
+}

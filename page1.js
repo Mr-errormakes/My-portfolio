@@ -1,0 +1,1 @@
+tailwind.config = {darkMode: "class", theme: {extend: {colors: {primary: "#ec13b6ff", "background-light": "#f6f6f8", "background-dark": "#171022ff", "surface-dark": "#252830"}, fontFamily: {display: "Space Grotesk"}, borderRadius: {DEFAULT: "0.5rem", lg: "1rem", xl: "1.5rem", full: "9999px"}}}};
