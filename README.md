@@ -28,7 +28,7 @@ A modern, responsive portfolio website showcasing the skills and projects of Moh
 
 ## 🌐 How to View
 
-VIEW THIS PROJECT LIVE :  
+VIEW THIS PROJECT LIVE :  http://db206djv7vpo0.cloudfront.net
 
 ## 👨‍💻 AUTHOR
 
