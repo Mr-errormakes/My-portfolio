@@ -1,0 +1,16 @@
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+*.tfvars.json
+
+# Secrets and private keys
+.env
+.env.*
+!.env.example
+*.pem
+
+# Node dependencies
+node_modules/

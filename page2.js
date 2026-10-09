@@ -20,7 +20,7 @@ tailwind.config = {
       },
       backgroundImage: {
           'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-          'smoke-gradient': 'radial-gradient(circle at 50% 0%, rgba, transparent 70%), radial-gradient(circle at 80% 50%, rgba(19, 91, 236, 0.08), transparent 50%)'
+          'smoke-gradient': 'radial-gradient(circle at 50% 0%, rgba(19, 91, 236, 0.05), transparent 70%), radial-gradient(circle at 80% 50%, rgba(19, 91, 236, 0.08), transparent 50%)'
       }
     },
   },
