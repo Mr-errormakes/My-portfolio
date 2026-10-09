@@ -12,6 +12,6 @@ variable "free-tier-instance" {
 
 variable "key-pair" {
   type        = string
-  default     = "webserver-key"
+  default     = "devops-key"
   
 }
